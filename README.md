@@ -15,3 +15,16 @@ https://nodejs.org/es/download
 
 ```
 
+### 2. Clona el repositorio
+
+```bash
+git clone https://github.com/jfaguirre/PazTravel.git
+```
+
+### 3. Entra al directorio del proyecto local desde la termina:
+
+```bash
+cd LaPazTravel
+```
+
+
